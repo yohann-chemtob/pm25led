@@ -8,6 +8,6 @@ Fine particles detector coupled to a led string for visualization.
 - Led strip DotStar like (could be NeoPixels but I have only those ones)
 
 ## Requirements 
-I use this two libraries (directly install from the Arduino software) :
+I use those two libraries (directly install from the Arduino software) :
 - https://github.com/adafruit/Adafruit_DotStar
 - https://github.com/lewapek/sds-dust-sensors-arduino-library
