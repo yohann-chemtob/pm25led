@@ -1,4 +1,4 @@
-#PM 2.5 Sensor
+# PM 2.5 Sensor
 Détecteur de particules fines couplé à une chaîne de leds pour visualisation.
 Fine particles detector coupled to a led string for visualization.
 
